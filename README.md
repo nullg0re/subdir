@@ -79,4 +79,4 @@ optional arguments:
 [*] Subdomains and IPs saved to test-output.txt.
 ```
 # Screenshot
-![Alt Text](Screenshots/subdir_mvcc.JPG "Execution")
+![Alt Text](subdir_mvcc.JPG "Execution")
