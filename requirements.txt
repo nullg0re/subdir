@@ -1,0 +1,4 @@
+dnspython
+argparse
+colorama
+futures
